@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FilippoPoggipolini
+- 👋 Hi, I’m Filippo but you can call me Pippo :)
 - 👀 I’m interested in soccer, architecture and videogames
 - 🌱 I’m currently learning CSS. I just finished HTML
 
